@@ -52,3 +52,7 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     - Criar, passar argumento
     - Executar
     - arrow function (ultiliza-se =>) / named function 
+
+    # Estrutura de repetição 
+
+    - while
