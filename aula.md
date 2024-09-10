@@ -1,11 +1,11 @@
-## Linguagem de programção
+## Linguagem de programção:
 
 Maneira de dar instruções ao computador.
 Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja, na resoluçào de problemas.
 
 >   **Algoritimo**: Sequência de passos lógicos e finito para resolver problema(s).
 
- ## Peças de Linguagens
+ ## Peças de Linguagens:
 
     - Comentários
     - Declaração de variáveis (const, let)
@@ -15,20 +15,40 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     - Controle de fluxo (if/else)
     - Estrutura de repetição (for, while)
 
-    # Fases da resolução de um problema
+    # Fases da resolução de um problema:
 
     Coletar os dados 
     Processar os dados (manipular, alterar ...)
     Apresentar os dados
 
-    ## Tipos de dados
+    ## Escopos e variáveis:
 
-    ## Escopos e Variáveis
+    Variáveis globais e locais
+    Constantes
 
-    String (Texto): "" '' `` 
-    Number: 2 1.4
-    Function
+    ## Tipos de dados:
 
+    - String (Texto): "" '' ``
+    - Numbers: 2 1.4
+    - boolean: true/false
     ## Operadores
 
-    Operador de atribuição de valor (=)
+    # Operador de atribuição de valor (=)
+
+   ## Estrutura de dados:
+
+    ### Arrays:
+
+    - Uma lista que contém qualquer tipo de dado
+
+    ### Objetos:
+
+    - Atributos e métodos
+    - Criação e manipulação de objetos
+    - Acesso a propriedades de objetos
+
+    ### Functions:
+
+    - Criar, passar argumento
+    - Executar
+    - arrow function (ultiliza-se =>) / named function 

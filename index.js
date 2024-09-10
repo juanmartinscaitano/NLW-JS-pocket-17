@@ -1,9 +1,13 @@
-// hello world
-const  mensagem = "hello world"; 
-
-{
-   const mensagem = "opa bão? This frase'll appear first :)"
-   console.log(mensagem)
+// arrays, objetos
+let meta = {
+   value: 'ler um livro por mês',
+   checked: false
 }
 
-console.log(mensagem);
+meta.value = "none of these above"
+console.log(meta.value)
+
+// function // arrow function
+// const criarMeta = () => {}
+
+// function criarMeta() {}
