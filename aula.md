@@ -33,7 +33,10 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     - boolean: true/false
     ## Operadores
 
-    # Operador de atribuição de valor (=)
+    - Operador de atribuição de valor: =
+    - Operadores de concatenação: +
+    - Operadores de comparação: == !=  <=  =>  < >
+
 
    ## Estrutura de dados:
 
@@ -60,6 +63,7 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     # Condicionais:
 
     - switch
+    - if/else
 
     ## Módulos node.js:
 
