@@ -53,6 +53,18 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     - Executar
     - arrow function (ultiliza-se =>) / named function 
 
-    # Estrutura de repetição 
+    # Estrutura de repetição:
 
     - while
+
+    # Condicionais:
+
+    - switch
+
+    ## Módulos node.js:
+
+    - Importação de módulos (require, CommonJS)
+    - Biblioteca 'inquirer' para criar prompts interativos
+
+    ## Programação assíncrona e Promises:
+    - Uso de funções assíncronas (async/await)
