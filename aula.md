@@ -4,3 +4,31 @@ Maneira de dar instruções ao computador.
 Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja, na resoluçào de problemas.
 
 >   **Algoritimo**: Sequência de passos lógicos e finito para resolver problema(s).
+
+ ## Peças de Linguagens
+
+    - Comentários
+    - Declaração de variáveis (const, let)
+    - Operadores (atribuição, concatenação, matemáticos, lógicos)
+    - Tipos de dados (String, number, boolean)
+    - Estrutura de dados (functions, object, array)
+    - Controle de fluxo (if/else)
+    - Estrutura de repetição (for, while)
+
+    # Fases da resolução de um problema
+
+    Coletar os dados 
+    Processar os dados (manipular, alterar ...)
+    Apresentar os dados
+
+    ## Tipos de dados
+
+    ## Escopos e Variáveis
+
+    String (Texto): "" '' `` 
+    Number: 2 1.4
+    Function
+
+    ## Operadores
+
+    Operador de atribuição de valor (=)
