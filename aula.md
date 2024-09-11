@@ -36,6 +36,7 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     - Operador de atribuição de valor: =
     - Operadores de concatenação: +
     - Operadores de comparação: == !=  <=  =>  < >
+    - Spread perator: ... (mas varia de atribuição dependendo de onde é colocada)
 
 
    ## Estrutura de dados:
@@ -43,6 +44,7 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     ### Arrays:
 
     - Uma lista que contém qualquer tipo de dado
+    - Métodos de array: psuh, [find, forEach, filter] : HOF(Higher Order Functions) 
 
     ### Objetos:
 
