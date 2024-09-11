@@ -44,7 +44,7 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
     ### Arrays:
 
     - Uma lista que contém qualquer tipo de dado
-    - Métodos de array: psuh, [find, forEach, filter] : HOF(Higher Order Functions) 
+    - Métodos de array: psuh, [find, forEach, filter, map] : HOF(Higher Order Functions) 
 
     ### Objetos:
 
@@ -71,6 +71,13 @@ Como um quebra-cabeça, iremos ultilizar peças para criar algoritimos, ou seja,
 
     - Importação de módulos (require, CommonJS)
     - Biblioteca 'inquirer' para criar prompts interativos
+    - FS (file system)
+
+    ##JSON
+
+    - JavaScript Object Notation (.json)
+    - JSON.parse(): JSON para Javascript
+    - JSON.stringfy(): Javascript para JSON
 
     ## Programação assíncrona e Promises:
     - Uso de funções assíncronas (async/await)
